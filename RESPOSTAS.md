@@ -4,6 +4,8 @@
 **Unidade:** U1 - Introducao ao Desenvolvimento de Aplicacoes Distribuidas
 **OFFSET utilizado:** 46 (portas: gRPC-Java=50097, gRPC-Python=50107)
 
+> **Nota de transparência (uso de IA):** esta atividade foi realizado o uso de Inteligência Artificial para apoiar na execução da atividade e revisões de código.
+
 ---
 
 ## Parte A - Transparencias em Sistemas Distribuidos
