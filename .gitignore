@@ -1,0 +1,16 @@
+﻿# Maven
+target/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Arquivos temporarios de teste
+*.txt
+gen_screenshots.py
+write_java.py
+test_cliente.py
+roteiro.md
